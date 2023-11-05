@@ -29,7 +29,7 @@ const Table = () => {
           <td>0</td>
       </tr>
       <tr>
-          <td className="table-headings"><img src={arsenalLogo} width={20} height={20} alt="logo" />Inter Miami</td>
+          <td className="table-headings"><img src={miamiLogo} width={20} height={20} alt="logo" />Inter Miami</td>
           <td>0</td>
           <td>0</td>
           <td>0</td>
@@ -53,7 +53,7 @@ const Table = () => {
           <td>0</td>
       </tr>
      <tr>
-          <td className="table-headings"><img src={arsenalLogo} width={20} height={20} alt="logo" />Man. City</td>
+          <td className="table-headings"><img src={cityLogo} width={20} height={20} alt="logo" />Man. City</td>
           <td>0</td>
           <td>0</td>
           <td>0</td>
